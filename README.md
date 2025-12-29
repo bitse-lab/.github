@@ -131,5 +131,3 @@ Please feel free to contact us through GitHub.
 
 Each repository follows its own declared open-source license unless otherwise specified.
 
-
-你直接说「要哪个」，我就给你补齐。

@@ -84,13 +84,6 @@ Key features:
 * Integrated CVE vulnerability lookup
 * Interactive visualization through a front-end interface
 
-🧱 Architecture:
-
-* Front-end: Vue.js + Element UI
-* Back-end: Django-based REST APIs
-
-This tool supports both **academic research** and **practical security analysis** in the Python ecosystem.
-
 ---
 
 ### 🪞 OSSMirror
@@ -98,6 +91,25 @@ This tool supports both **academic research** and **practical security analysis*
 [https://github.com/bitse-lab/OSSMirror](https://github.com/bitse-lab/OSSMirror)
 
 This repository supports research on **open-source ecosystem analysis, mirroring, and large-scale data collection**, providing infrastructure for reproducible OSS experiments.
+
+---
+
+### 📊 OSS Health Reporter
+
+[https://github.com/bitse-lab/OSS_Health](https://github.com/bitse-lab/OSS_Health) 
+
+**OSS Health Reporter** is a system designed to **evaluate and report the overall health of Open Source Software (OSS) projects** through a comprehensive, multi-dimensional analysis framework.
+
+The system assesses OSS project health from **three complementary dimensions**:
+
+* 🧩 **Software Dimension** – code quality, evolution, and technical sustainability
+* 👥 **Community Dimension** – contributor activity, collaboration, and project vitality
+* 📈 **Market Dimension** – adoption, popularity, and ecosystem impact
+
+To ensure objectivity and robustness, OSS Health Reporter employs:
+
+* **Entropy Weight Method** to automatically determine the relative importance of each metric
+* **GPA-based aggregation model** to compute a unified, interpretable health score
 
 ---
 
